@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="./imgs/blue_scales.png" width="250">
+  <img src="./imgs/blue_scales.png" width="400">
 </p>
 
 This repository is created to distribute the code for the AIES 2022 paper ["SCALES: From Fairness Principles to Constrained Decision Making"]([AIES 2022](https://www.aies-conference.com/2022/aies-2022-accepted-papers/)). The final code will be udpated after the AIES conference in August 2022. Meanwhile, kindly contact [Sreejith Balakrishnan](mailto:sreejith@comp.nus.edu.sg) for any queries on the code or the paper. 
@@ -16,7 +16,7 @@ A key challenge that arises when you try to incorporate fairness into decision m
 
 Let us consider an example. 
 <p align="center">
-  <img src="./imgs/causal_model_curvy.png" width="250">
+  <img src="./imgs/causal_model_curvy.png" width="500">
 </p>
 
 Shown here is a casual model employed by a fictitious government to decide whether or not to subsidize the healthcare of a citizen. The government’s decision to subsidize the healthcare benefits the citizen, but comes at an added expense to the government. In this setup, we assume Gender is a sensitive attribute.
@@ -31,7 +31,7 @@ SCALES is a fair decision making framework that can incorporate various fairness
 In SCALES, we model the decision making problem as a variant of the constrained markov decision process that we call SCMDP. The key realization (change) behind this work is that fairness principles can be broken down into a combination of three components. 
 
 <p align="center">
-  <img src="./imgs/components.png" width="250">
+  <img src="./imgs/components.png" width="1000">
 </p>
 
 The utility component influences the objective function to be optimized when generating decisions. A good example of this is the Maximin principle which maximizes the worst case utility among stakeholders. 
