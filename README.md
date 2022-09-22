@@ -1,12 +1,12 @@
 # SCALES
-[![Venue:AIES 22](https://img.shields.io/badge/venue-AIES%2022-blue)](https://www.aies-conference.com/2022/aies-2022-accepted-papers/)
+[![Venue:AIES 22](https://img.shields.io/badge/venue-AIES%2022-blue)](https://dl.acm.org/doi/10.1145/3514094.3534190)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="./imgs/blue_scales.png" width="400">
 </p>
 
-This repository is created to distribute the code for the AIES 2022 paper ["SCALES: From Fairness Principles to Constrained Decision Making"]([AIES 2022](https://www.aies-conference.com/2022/aies-2022-accepted-papers/)). The final code will be udpated after the AIES conference in August 2022. Meanwhile, kindly contact [Sreejith Balakrishnan](mailto:sreejith@comp.nus.edu.sg) for any queries on the code or the paper. 
+This repository is created to distribute the code for the AIES 2022 paper ["SCALES: From Fairness Principles to Constrained Decision Making"]([AIES 2022](https://dl.acm.org/doi/10.1145/3514094.3534190)). The final code will be made public very soon. Meanwhile, kindly contact [Sreejith Balakrishnan](mailto:sreejith@comp.nus.edu.sg) for any queries on the code or the paper. 
 
 ## Motivation
 Traditional AI decision making systems are tasked with optimizing a narrow performance criteria. We argue that these systems should go beyond this and take into consideration broader societal concerns such as fairness.
