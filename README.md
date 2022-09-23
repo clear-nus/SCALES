@@ -1,4 +1,5 @@
 # SCALES
+[![preprint](https://img.shields.io/static/v1?label=arXiv&message=1909.07425&color=B31B1B)](https://arxiv.org/abs/2209.10860)
 [![Venue:AIES 22](https://img.shields.io/badge/venue-AIES%2022-blue)](https://dl.acm.org/doi/10.1145/3514094.3534190)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
